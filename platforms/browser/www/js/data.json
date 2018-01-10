@@ -1,0 +1,40 @@
+{
+  "currency": [
+    {
+      "id":"1",
+      "name": "Bitcoin",
+      "type": "currency",
+      "description": "The first and most popular digital currency.",
+      "imgurl":"./img/bitcoin.png",
+      "developers": [
+        { "name": "Greg Maxwell", "imgurl":"./img/devs/maxwell.jpg" },
+        { "name": "Adam Back", "imgurl":"./img/devs/back.jpg" },
+        { "name": "Luke Dash Jr.", "imgurl":"./img/devs/luke.jpg" }
+      ]
+    },
+    {
+      "id":"2",
+      "name": "Siacoin",
+      "type": "utility token",
+      "description": "Technology allowing decentralized storage.",
+      "imgurl":"./img/siacoin.jpeg",
+      "developers": [
+        { "name": "tyemi", "imgurl":"./img/devs/eric.jpg" },
+        { "name": "Thomas Bennit", "imgurl":"./img/devs/bennit.jpg" },
+        { "name": "Zach Herbert", "imgurl":"./img/devs/herbert.jpeg" }
+      ]
+    },
+    {
+      "id":"3",
+      "name": "Ethereum",
+      "type": "currency",
+      "description": "Distributed computing for decentralized applications.",
+      "imgurl":"./img/ethereum.png",
+      "developers": [
+        { "name": "Vitalik Buterin", "imgurl":"./img/devs/vitalik.jpg" },
+        { "name": "Dr. Gavin Wood", "imgurl":"./img/devs/gavin.jpg" },
+        { "name": "Zamfir", "imgurl":"./img/devs/zamfir.jpeg" }
+      ]
+    }
+  ]
+}
